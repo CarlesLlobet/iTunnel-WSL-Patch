@@ -5,6 +5,8 @@ Also working on WSL.
 
 This scripts tunnel some ports from USB to localhost ports in order to be able to connect as remotely but through USB.
 
+<a href="https://www.buymeacoffee.com/carlesllobet" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## Usage
 
 - Clone this repository:
